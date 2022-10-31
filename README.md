@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im a Computer Science student at Universidade do Vale do Rio dos Sinos (UNISINOS),<br>in the 6th semester<br><br>I’m currently working at SAP as a Full-Stack Developer, with Java/Spring Boot and <br>TypeScript/Angular
+Im a Computer Science student at Universidade do Vale do Rio dos Sinos (UNISINOS) in the 6th semester. <br>Also, I’m currently working at SAP as a Full-Stack Developer, with Java/Spring Boot and TypeScript/Angular
 
 
 ## 🌐 Socials:
