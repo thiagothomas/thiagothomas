@@ -1,5 +1,5 @@
 # 💫 About Me:
-I hold a Bachelor's degree in Computer Science from Universidade do Vale do Rio dos Sinos (UNISINOS) and will be starting my Master's in March, focusing on Artificial Intelligence—specifically Goal Recognition and Multi-Agent Reinforcement Learning. Currently, I work as a Full-Stack Developer at SAP, mainly backend focused specializing in Java and Spring Boot, but also working with JavaScript/TypeScript, Angular and UI5
+I hold a Bachelor's degree in Computer Science from Universidade do Vale do Rio dos Sinos (UNISINOS) and will be starting my Master's in March at Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS), focusing on Artificial Intelligence—specifically Goal Recognition and Multi-Agent Reinforcement Learning. Currently, I work as a Full-Stack Developer at SAP, mainly backend focused specializing in Java and Spring Boot, but also working with JavaScript/TypeScript, Angular and UI5
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thiagothomas) 
