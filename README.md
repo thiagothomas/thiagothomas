@@ -3,7 +3,7 @@ Hi, I’m Thiago. I build things that blend AI agents, crypto, and cloud into so
 
 I’m a Full Stack Software Engineer at **Blorm**, a crypto + AI agents startup pioneering autonomous onchain agents and decentralized AI infrastructure. I work across backend (Node.js, NestJS, Python, Express), frontend (Next.js, React, TypeScript, JavaScript), and scalable cloud infra (GCP, AWS). I also mess with TEEs protocols like **Phala Network** to push agents into private environments.
 
-I’m doing my Master’s at **PUCRS**, researching **Multi-Agent Reinforcement Learning + Goal Recognition**. My agents coordinate, compete, and (occasionally) succeed.  
+I’m doing my Master’s at **PUCRS**, researching **Multi-Agent Reinforcement Learning + Goal Recognition**. 
 
 Before Blorm, I spent 3+ years at **SAP** grinding enterprise backends (Java, Spring Boot) and enterprise frontends (Angular, UI5, TypeScript). Big company stuff, but it taught me to ship at scale.
 
