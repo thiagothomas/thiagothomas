@@ -5,7 +5,7 @@ I’m a Full Stack Software Engineer at **Blorm**, a crypto + AI agents startup 
 
 I’m doing my Master’s at **PUCRS**, researching **Multi-Agent Reinforcement Learning + Goal Recognition**. 
 
-Before Blorm, I spent 3+ years at **SAP** grinding enterprise backends (Java, Spring Boot) and enterprise frontends (Angular, UI5, TypeScript). Big company stuff, but it taught me to ship at scale.
+Before Blorm, I spent 4+ years at **SAP**, NTT Data (consulting at Itau Unibanco) and Meta, grinding enterprise backends (Java, Spring Boot) and enterprise frontends (Angular, UI5, TypeScript). Big company stuff, but it taught me to ship at scale.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thiagothomas)
