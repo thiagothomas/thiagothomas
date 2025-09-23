@@ -9,7 +9,6 @@ Before Blorm, I spent 4+ years at **SAP**, NTT Data (consulting at Itau Unibanco
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thiagothomas)
-[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/ththomas_)
 
 # 💻 Tech Stack:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
